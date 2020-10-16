@@ -1,3 +1,4 @@
 # git-basics
 StackSkills - GIT for Beginners
-add enw line
+add new line
+master commit
