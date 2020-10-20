@@ -6,3 +6,5 @@ first commit in feature branch
 Second commit
 3rd commit
 4th commit
+
+changes from feature branch
