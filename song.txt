@@ -3,10 +3,6 @@ a footprint to be seen
 This line needs a review
 new line
 first commit in feature branch
-Second commit
-3rd commit
-4th commit
-final version
 
 New non conflict part
 changes from feature branch
